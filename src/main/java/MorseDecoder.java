@@ -96,7 +96,6 @@ public class MorseDecoder {
                     silenceCount = 0;
                 } else {
                     silenceCount++;
-                    }
                 }
             }
         }
